@@ -9,6 +9,7 @@
     "mus_vol": 0.8,
     "play_time": 0,
     "sfx_vol": 0.8
+    "pass": "admin"
   },
   "yo": {
     "antialiasing": 0,
@@ -20,6 +21,7 @@
     "mus_vol": 0.8,
     "play_time": 0,
     "sfx_vol": 0.8
+    "pass": "admin2"
   },
   "osny": {
     "antialiasing": 0,
@@ -31,5 +33,6 @@
     "mus_vol": 0.8,
     "play_time": 999999999,
     "sfx_vol": 0.8
+    "pass": "admin3"
   }
 }
