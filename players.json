@@ -20,5 +20,16 @@
     "mus_vol": 0.8,
     "play_time": 0,
     "sfx_vol": 0.8
+  },
+  "osny": {
+    "antialiasing": 0,
+    "formation": ["Mei Marzipan_SR_0_none", "Wappa Charlotte_SR_0_none", "Hanna Fondant_SR_0_none"],
+    "intro_pass": false,
+    "kids": ["Sheena Falafel_S_plus_0_none"],
+    "language": "en",
+    "level": 1,
+    "mus_vol": 0.8,
+    "play_time": 999999999,
+    "sfx_vol": 0.8
   }
 }
