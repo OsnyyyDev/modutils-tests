@@ -26,7 +26,7 @@
   "osny": {
     "antialiasing": 0,
     "formation": ["Mei Marzipan_SR_0_none", "Wappa Charlotte_SR_0_none", "Hanna Fondant_SR_0_none"],
-    "intro_pass": false,
+    "intro_pass": true,
     "kids": ["Sheena Falafel_S_plus_0_none", "Hack Montblanc_SR_plus_0_none", "Hack Montblanc_B_0_none", "Sheena Falafel_A_plus_0_none", "Flam Kish_SR_0_none", "Jihl_SR_plus_0_none"],
     "language": "es",
     "level": 1,
@@ -34,5 +34,17 @@
     "play_time": "como 3 semanas o capaz 6 horas",
     "sfx_vol": 0.8,
     "pass": "admin3"
+  },
+  "mei": {
+    "antialiasing": 0,
+    "formation": ["Mei Marzipan_SR_0_none", "Malt Marzipan_SR_plus_0_none", "Hanna Fondant_SR_0_none"],
+    "intro_pass": false,
+    "kids": ["Sheena Falafel_S_plus_0_none", "Hack Montblanc_SR_plus_0_none", "Chick Montblanc_SR_plus_0_none", "Sheena Falafel_A_plus_0_none", "Boron Brioche_SR_plus_0_none"],
+    "language": "en",
+    "level": 1,
+    "mus_vol": 0.8,
+    "play_time": "2",
+    "sfx_vol": 0.8,
+    "pass": "3_letters_lenght_pass"
   }
 }
