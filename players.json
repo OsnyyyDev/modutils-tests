@@ -37,7 +37,7 @@
   },
   "mei": {
     "antialiasing": 0,
-    "formation": ["Mei Marzipan_SR_0_none", "Malt Marzipan_SR_plus_0_none", "Hanna Fondant_SR_0_none"],
+    "formation": ["Mei Marzipan_SR_plus_1_new_year", "Malt Marzipan_SR_plus_0_none", "Hanna Fondant_SR_0_none"],
     "intro_pass": false,
     "kids": ["Sheena Falafel_S_plus_0_none", "Hack Montblanc_SR_plus_0_none", "Chick Montblanc_SR_plus_0_none", "Sheena Falafel_A_plus_0_none", "Boron Brioche_SR_plus_0_none"],
     "language": "en",
